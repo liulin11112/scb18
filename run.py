@@ -28,4 +28,4 @@ def execute_fun(filename,sheetname):
         print('*'*30)
         
 #改成Jenkins目录下的xlsx文件
-execute_fun('D:\\study\\git\\scb18\\test_data\\test_case_api.xlsx', 'login')
+execute_fun('C:\\Users\\刘琳\\.jenkins\\workspace\\scb18\\test_data\\test_case_api.xlsx', 'login')
